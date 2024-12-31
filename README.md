@@ -1,3 +1,8 @@
+# Learn in Public
+
+#### 2024-12-30
+- [x] taking machine learning course install mini conda
+
 #### 2022-11-07-Mon
 
 ###### Python
