@@ -1,6 +1,10 @@
 # Learn in Public
 
 #### 2024-12-30
+- [x] activate conda env
+- [x] install jupyter pandas numpy matplotlib scikit-learn (issue with higher python version while installing jupyter so had too use `conda create --name jupyter-env python=3.10`)
+
+#### 2024-12-30
 - [x] taking machine learning course install mini conda
 
 #### 2022-11-07-Mon
