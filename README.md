@@ -1,5 +1,8 @@
 # Learn in Public
 
+#### 2025-01-01
+- [x] intro to panda in Jupyter notebook: used `pd.Sereis`, `pd.DataFrame`, `pd.read_csv`, `{data_frame}.to_csv`
+
 #### 2024-12-30
 - [x] activate conda env
 - [x] install jupyter pandas numpy matplotlib scikit-learn (issue with higher python version while installing jupyter so had too use `conda create --name jupyter-env python=3.10`)
