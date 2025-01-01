@@ -2,6 +2,13 @@
 
 #### 2025-01-01
 - [x] intro to panda in Jupyter notebook: used `pd.Sereis`, `pd.DataFrame`, `pd.read_csv`, `{data_frame}.to_csv`
+- [x] decribe info with pandas using
+  - `dtypes`
+  - `columns`
+  - `.means()`
+  - `.info()`
+  - `.sum()`
+  - ...etc
 
 #### 2024-12-30
 - [x] activate conda env
