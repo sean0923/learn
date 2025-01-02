@@ -9,6 +9,11 @@
   - `.info()`
   - `.sum()`
   - ...etc
+- [x] select and view data with pandas: 
+```python
+car_sales.head() # show first 5 rows
+car_sales[car_sales["Make"] == "Toyota"] # boolean indexing
+```
 
 #### 2024-12-30
 - [x] activate conda env
