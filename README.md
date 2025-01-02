@@ -13,6 +13,12 @@
 ```python
 car_sales.head() # show first 5 rows
 car_sales[car_sales["Make"] == "Toyota"] # boolean indexing
+
+car_sales.groupby(["Make"]).mean(numeric_only=True)
+car_sales["Odometer (KM)"].hist()
+car_sales["Price"] = car_sales["Price"].str.replace('[\$\,\,\.]', '', regex=True)
+car_sales["Price"] = car_sales["Price"].astype(int)
+car_sales["Price"].plot()
 ```
 
 #### 2024-12-30
