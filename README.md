@@ -20,6 +20,10 @@ car_sales["Price"] = car_sales["Price"].str.replace('[\$\,\,\.]', '', regex=True
 car_sales["Price"] = car_sales["Price"].astype(int)
 car_sales["Price"].plot()
 ```
+- [x] manipulate data with pandas
+  - car_sales_drop_missing = car_sales_missing.dropna()
+  - car_sales_missing["Odometer"] = car_sales_missing["Odometer"].fillna(car_sales_missing["Odometer"].mean())
+
 
 #### 2024-12-30
 - [x] activate conda env
