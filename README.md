@@ -1,5 +1,9 @@
 # Learn in Public
 
+#### 2025-01-02
+- `car_sales.drop("<Col Name>", axis=1)` <-- axis=1 represent column
+- `pd.Series([1,2,3])` add this as a column in DataFrame rest will fill up as NaN, if python list `[1,2,3]` then error
+
 #### 2025-01-01
 - [x] intro to panda in Jupyter notebook: used `pd.Sereis`, `pd.DataFrame`, `pd.read_csv`, `{data_frame}.to_csv`
 - [x] decribe info with pandas using
