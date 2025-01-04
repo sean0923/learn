@@ -1,10 +1,14 @@
 # Learn in Public
 
-#### 2025-01-02
+#### 2025-01-03-Fri
+- start assignment 1 - pandas practice
+
+
+#### 2025-01-02-Thu
 - `car_sales.drop("<Col Name>", axis=1)` <-- axis=1 represent column
 - `pd.Series([1,2,3])` add this as a column in DataFrame rest will fill up as NaN, if python list `[1,2,3]` then error
 
-#### 2025-01-01
+#### 2025-01-01-Wed
 - [x] intro to panda in Jupyter notebook: used `pd.Sereis`, `pd.DataFrame`, `pd.read_csv`, `{data_frame}.to_csv`
 - [x] decribe info with pandas using
   - `dtypes`
@@ -29,7 +33,7 @@ car_sales["Price"].plot()
   - car_sales_missing["Odometer"] = car_sales_missing["Odometer"].fillna(car_sales_missing["Odometer"].mean())
 
 
-#### 2024-12-30
+#### 2024-12-31-
 - [x] activate conda env
 - [x] install jupyter pandas numpy matplotlib scikit-learn (issue with higher python version while installing jupyter so had too use `conda create --name jupyter-env python=3.10`)
 
