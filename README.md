@@ -2,6 +2,8 @@
 
 #### 2025-01-03-Fri
 - start assignment 1 - pandas practice
+![image](https://github.com/user-attachments/assets/ace2a37a-3068-4aec-94d3-8f587c5e32ad)
+
 
 
 #### 2025-01-02-Thu
