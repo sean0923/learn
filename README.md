@@ -1,10 +1,13 @@
 # Learn in Public
 
+#### 2025-01-04-Sat
+- finish pandas assignment 1
+![image](https://github.com/user-attachments/assets/13acb649-b1e0-413d-8ca2-99f4e884010e)
+
+
 #### 2025-01-03-Fri
 - start assignment 1 - pandas practice
 ![image](https://github.com/user-attachments/assets/ace2a37a-3068-4aec-94d3-8f587c5e32ad)
-
-
 
 #### 2025-01-02-Thu
 - `car_sales.drop("<Col Name>", axis=1)` <-- axis=1 represent column
