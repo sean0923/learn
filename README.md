@@ -24,7 +24,7 @@ random_array_1 = np.random.randint(10, size=(1,10))
 - python `sum()` vs `np.sum()` <-- np.sum() is much faster
 - np.std()
 - reshape and transpose
-- dot product
+- dot product  
 ![image](https://github.com/user-attachments/assets/43d89ea6-4da7-49fc-af45-276ffc10e2b3)
 
 
