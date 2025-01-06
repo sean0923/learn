@@ -1,5 +1,29 @@
 # Learn in Public
 
+#### 2025-01-05-Sun
+
+- intro to numpy
+  - `np.array()`
+```py
+a3 = np.array([[[1,2,3],
+               [4,5,6]],
+               
+              [[2,3,4],
+               [2,3,4]],
+               
+              [[3,4,5],
+               [3,4,5]]])
+```
+- `range_array = np.arange(3,7,2)`
+- `randint_array = np.random.randint(1, 10, size = (2,3))`
+```py
+np.random.seed(seed=1) # setting seed make the output same every you run the code
+random_array_1 = np.random.randint(10, size=(1,10))
+```
+` `a1 * twos` <-- array([2, 4, 6])
+
+
+
 #### 2025-01-04-Sat
 - finish pandas assignment 1
 ![image](https://github.com/user-attachments/assets/13acb649-b1e0-413d-8ca2-99f4e884010e)
