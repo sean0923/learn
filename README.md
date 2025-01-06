@@ -20,7 +20,13 @@ a3 = np.array([[[1,2,3],
 np.random.seed(seed=1) # setting seed make the output same every you run the code
 random_array_1 = np.random.randint(10, size=(1,10))
 ```
-` `a1 * twos` <-- array([2, 4, 6])
+- `%timeit` <-- jupyter notebook magic function
+- python `sum()` vs `np.sum()` <-- np.sum() is much faster
+- np.std()
+- reshape and transpose
+- dot product
+![image](https://github.com/user-attachments/assets/43d89ea6-4da7-49fc-af45-276ffc10e2b3)
+
 
 
 
