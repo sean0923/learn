@@ -1,5 +1,12 @@
 # Learn in Public
 
+#### 2025-01-06-Mon
+- np.argsort() <-- sort index of array
+- intro to matplotlib
+- fig, ax = plt.subplots()
+![image](https://github.com/user-attachments/assets/750530ae-8454-481d-aaab-91a5115d5835)
+
+
 #### 2025-01-05-Sun
 
 - intro to numpy
