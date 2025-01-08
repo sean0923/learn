@@ -1,5 +1,11 @@
 # Learn in Public
 
+#### 2025-01-07-Tue
+- matplotlib histogray and subplots
+![image](https://github.com/user-attachments/assets/2204b7bf-a279-4cb6-a644-7e98c03a7523)
+
+
+
 #### 2025-01-06-Mon
 - np.argsort() <-- sort index of array
 - intro to matplotlib
