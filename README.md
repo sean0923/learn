@@ -1,5 +1,11 @@
 # Learn in Public
 
+#### 2025-01-08-Wed
+
+- plot from pandas data frame
+![image](https://github.com/user-attachments/assets/6e7f7084-4374-40bc-98dd-636268497189)
+
+
 #### 2025-01-07-Tue
 - matplotlib histogray and subplots
 ![image](https://github.com/user-attachments/assets/2204b7bf-a279-4cb6-a644-7e98c03a7523)
