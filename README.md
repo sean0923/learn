@@ -1,5 +1,11 @@
 # Learn in Public
 
+#### 2025-01-09-Thu
+
+- more matplot lib (style & custom subplots)
+- export plot as png
+- matplot lib exercise
+
 #### 2025-01-08-Wed
 
 - plot from pandas data frame
