@@ -1,5 +1,9 @@
 # Learn in Public
 
+#### 2025-01-10-Fri
+
+- Scikit-learn intro
+
 #### 2025-01-09-Thu
 
 - more matplot lib (style & custom subplots)
