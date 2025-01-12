@@ -1,5 +1,17 @@
 # Learn in Public
 
+#### 2025-01-11-Sat
+
+- Scikit-learn using `RandomForestRegressor`
+```py
+# refit the model
+np.random.seed(42)
+X_train, X_test, y_train, y_test = train_test_split(transformed_X, y, test_size=0.2)
+model = RandomForestRegressor()
+model.fit(X_train, y_train)
+model.score(X_test, y_test)
+```
+
 #### 2025-01-10-Fri
 
 - Scikit-learn intro
