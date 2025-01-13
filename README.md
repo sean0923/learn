@@ -1,5 +1,11 @@
 # Learn in Public
 
+#### 2025-01-12-Sun
+
+- Learning regression & classfication model using `RandomForestRegressor` `RandomForestClassifier`
+- Learn `predict_proba` vs `predict`
+- `ROC curve` & `roc_auc_score`
+
 #### 2025-01-11-Sat
 
 - Scikit-learn using `RandomForestRegressor`
