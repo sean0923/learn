@@ -1,5 +1,9 @@
 # Learn in Public
 
+#### 2025-01-13-Mon
+
+- Learn confusion matrix
+
 #### 2025-01-12-Sun
 
 - Learning regression & classfication model using `RandomForestRegressor` `RandomForestClassifier`
