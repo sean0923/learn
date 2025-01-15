@@ -1,5 +1,12 @@
 # Learn in Public
 
+#### 2025-01-14-Tue
+
+- Learn intro to regression model evaluation metrics
+  - R^2 (coefficient of determination) <-- only learned this
+  - Mean Absolute Error (MAE)
+  - Mean Squared Error (MSE)
+
 #### 2025-01-13-Mon
 
 - Learn confusion matrix
