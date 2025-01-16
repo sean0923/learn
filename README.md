@@ -1,5 +1,10 @@
 # Learn in Public
 
+#### 2025-01-15-Wed
+- Mean Absolute Error (MAE)
+![image](https://github.com/user-attachments/assets/4c12df3c-ac2b-40f4-86f2-1b2ae25feac1)
+
+
 #### 2025-01-14-Tue
 
 - Learn intro to regression model evaluation metrics
