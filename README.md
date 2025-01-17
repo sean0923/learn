@@ -1,5 +1,9 @@
 # Learn in Public
 
+#### 2025-01-16-Thu
+
+- Mean Square Error (MSE): amplify big diff btw y_test and y_pred
+
 #### 2025-01-15-Wed
 - Mean Absolute Error (MAE)
 ![image](https://github.com/user-attachments/assets/4c12df3c-ac2b-40f4-86f2-1b2ae25feac1)
