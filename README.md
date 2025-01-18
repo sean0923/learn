@@ -1,5 +1,9 @@
 # Learn in Public
 
+#### 2025-01-17-Fri
+
+- Cross Validation Scoring for Classification and Regression
+
 #### 2025-01-16-Thu
 
 - Mean Square Error (MSE): amplify big diff btw y_test and y_pred
