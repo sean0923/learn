@@ -1,5 +1,11 @@
 # Learn in Public
 
+
+#### 2025-01-19-Sun
+
+- Divide set into 3: train, validate, test, train, then apply hyperparameter tuning to validation set
+- Hyperparmeter Tuning by hand in RandomForestClassifier model (`n_estimators`, `max_depth`).
+
 #### 2025-01-18-Sat
 
 - Learnd parameter vs hyperparameter concept. Will adjust hyperparameter to improve the model performance in the future
