@@ -1,5 +1,9 @@
 # Learn in Public
 
+#### 2025-01-18-Sat
+
+- Learnd parameter vs hyperparameter concept. Will adjust hyperparameter to improve the model performance in the future
+
 #### 2025-01-17-Fri
 
 - Cross Validation Scoring for Classification and Regression
