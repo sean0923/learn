@@ -1,6 +1,10 @@
 # Learn in Public
 
 
+#### 2025-01-20-Mon
+
+- Leraned sklearn `RandomizedSearchCV` and `GridSearchCV` for hyperparameter tuning
+
 #### 2025-01-19-Sun
 
 - Divide set into 3: train, validate, test, train, then apply hyperparameter tuning to validation set
