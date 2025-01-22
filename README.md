@@ -1,5 +1,8 @@
 # Learn in Public
 
+#### 2025-01-21-Tue
+
+- save & load model with pickle and joblib
 
 #### 2025-01-20-Mon
 
