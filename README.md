@@ -5,7 +5,7 @@
 - Started heart disease project
 - Analyzing the data
   - how is the target distribution `df["target"].value_counts`
-  - is there any missing values? `df.isna().sum()
+  - is there any missing values? `df.isna().sum()`
   - how is individual feature vs target looks like?
 
 #### 2025-01-22-Wed
