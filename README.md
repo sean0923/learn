@@ -1,5 +1,9 @@
 # Learn in Public
 
+#### 2025-01-23-Thu
+
+- Started heart disease project
+
 #### 2025-01-22-Wed
 
 - Learned sklearn.pipline to go through car_sales with missing data (imputer to fill up na, encoder to convert to numeric using pipeline and preprocessor)
