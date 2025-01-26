@@ -1,5 +1,9 @@
 # Learn in Public
 
+#### 2025-01-25-Sat
+
+- correlation matrix `df.corr()`
+
 #### 2025-01-24-Fri
 
 - heart-disease-project (hdp): try to understand data by looking at 2 independant variable at the same time (age vs max heart rate)
