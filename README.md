@@ -1,5 +1,9 @@
 # Learn in Public
 
+#### 2025-01-26-Sun
+
+- hyperparameter tuning for KNN
+  
 #### 2025-01-25-Sat
 
 - correlation matrix `df.corr()`
