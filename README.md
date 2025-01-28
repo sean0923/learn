@@ -1,5 +1,9 @@
 # Learn in Public
 
+#### 2025-01-27-Mon
+
+- hyperparameter tuning with RandomSearchCV and GridSearchCV
+ 
 #### 2025-01-26-Sun
 
 - hyperparameter tuning for KNN
