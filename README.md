@@ -1,5 +1,9 @@
 # Learn in Public
 
+#### 2025-01-28-Tue
+
+- evaluation with `sklearn.metrics`
+
 #### 2025-01-27-Mon
 
 - hyperparameter tuning with RandomSearchCV and GridSearchCV
