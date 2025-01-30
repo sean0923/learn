@@ -1,5 +1,9 @@
 # Learn in Public
 
+#### 2025-01-29-Wed
+
+- start project wiht time series data (bulldozer price prediction) (regression)
+
 #### 2025-01-28-Tue
 
 - evaluation with `sklearn.metrics`
