@@ -1,5 +1,12 @@
 # Learn in Public
 
+#### 2025-01-30-Thu
+
+- it's good idea to sort by date when working with time series data 
+```py
+df_temp.sort_values(by=["saledate"], inplace=True, ascending=True)
+```
+
 #### 2025-01-29-Wed
 
 - start project wiht time series data (bulldozer price prediction) (regression)
