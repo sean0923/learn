@@ -1,5 +1,12 @@
 # Learn in Public
 
+#### 2025-01-31-Fri
+
+- covert object type to integer using pd `category`
+```py
+content.astype("category").cat.as_ordered() # string value will turn into integer
+```
+
 #### 2025-01-30-Thu
 
 - it's good idea to sort by date when working with time series data 
