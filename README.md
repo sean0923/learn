@@ -1,5 +1,10 @@
 # Learn in Public
 
+#### 2025-02-01-Sat
+
+- Fill missing numerical values then fill missing non-numerical values
+- Fit through RandomForestRegressor (about 400,000 rows --> takes about 1 min to fit)
+
 #### 2025-01-31-Fri
 
 - covert object type to integer using pd `category`
