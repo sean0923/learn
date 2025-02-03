@@ -1,5 +1,14 @@
 # Learn in Public
 
+#### 2025-02-02-Sun
+
+- Calculated score with training and validation set
+- Decreased model.fit time setting `max_samples` much lower than actual data size
+```py
+# Change max_samples values to decrease training time
+model = RandomForestRegressor(n_jobs=-1, random_state=42, max_samples=10000) # sample is about 400,000
+```
+
 #### 2025-02-01-Sat
 
 - Fill missing numerical values then fill missing non-numerical values
