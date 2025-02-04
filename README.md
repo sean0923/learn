@@ -1,5 +1,10 @@
 # Learn in Public
 
+#### 2025-02-03-Mon
+
+- Start learning about deep learning, TensorFlow.
+- Instead of using local Jupyter Notebook, using Google colab with GPU access
+  
 #### 2025-02-02-Sun
 
 - Calculated score with training and validation set
