@@ -1,5 +1,9 @@
 # Learn in Public
 
+#### 2025-02-04-Tue
+
+- Turn images into Tensors
+
 #### 2025-02-03-Mon
 
 - Start learning about deep learning, TensorFlow.
