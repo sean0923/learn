@@ -1,5 +1,9 @@
 # Learn in Public
 
+#### 2025-02-05-Wed
+
+- Start building deep learning model using `keras`, [`google/mobilenet-v2`](https://www.kaggle.com/models/google/mobilenet-v2/tensorFlow2/130-224-classification)
+
 #### 2025-02-04-Tue
 
 - Turn images into Tensors
