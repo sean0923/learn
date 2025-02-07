@@ -1,5 +1,9 @@
 # Learn in Public
 
+#### 2025-02-07-Fri
+
+- save and load trained model
+
 #### 2025-02-06-Thu
 
 - trained deep learning model with about 68% accuracy on identifying dog breed with 800, 200 training and validation set
