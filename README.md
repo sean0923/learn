@@ -1,5 +1,10 @@
 # Learn in Public
 
+#### 2025-02-08-Sat
+
+- download ollama and ran deepseek-r1 locally for the first time
+- ran llama3.3 70b (43GB) locally and shocked at how slow the response came back (about 1 word/min)
+
 #### 2025-02-07-Fri
 
 - save and load trained model
