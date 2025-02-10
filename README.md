@@ -1,5 +1,11 @@
 # Learn in Public
 
+#### 2025-02-09-Sun
+
+- learn cool tool called `gradio` (UI generation tool that can take function, input, output)
+![image](https://github.com/user-attachments/assets/85665cf9-8355-43dd-b825-b66c813d0767)
+
+
 #### 2025-02-08-Sat
 
 - download ollama and ran deepseek-r1 locally for the first time
