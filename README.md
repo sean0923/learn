@@ -1,5 +1,10 @@
 # Learn in Public
 
+#### 2025-02-10-Mon
+
+- learn `gr.ChatInterface(fn=func)`
+- learn `tools` that goes into one of the argument to `openai.chat.completions.create`
+
 #### 2025-02-09-Sun
 
 - learn cool tool called `gradio` (UI generation tool that can take function, input, output)
