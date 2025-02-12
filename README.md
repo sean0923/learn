@@ -1,5 +1,12 @@
 # Learn in Public
 
+#### 2025-02-11-Tue
+
+- learn multiple LLM leader board websties
+  - [vellum](https://www.vellum.ai/llm-leaderboard): has price info
+  - [lmarena](https://lmarena.ai/?leaderboard): human ranking of LLM based on AB testing
+  - [SEAL](https://scale.com/leaderboard): specific topic
+
 #### 2025-02-10-Mon
 
 - learn `gr.ChatInterface(fn=func)`
