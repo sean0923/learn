@@ -1,5 +1,8 @@
 # Learn in Public
 
+#### 2025-02-12-Wed
+- intro to RAG
+
 #### 2025-02-11-Tue
 
 - learn multiple LLM leader board websties
