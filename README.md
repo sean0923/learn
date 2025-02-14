@@ -1,5 +1,8 @@
 # Learn in Public
 
+#### 2025-02-13-Thu
+- intro to LangChain
+
 #### 2025-02-12-Wed
 - intro to RAG
 
