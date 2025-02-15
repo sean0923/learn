@@ -1,5 +1,8 @@
 # Learn in Public
 
+#### 2025-02-14-Fri
+- start predicting amazon item price using LLM. Dataset comes from: https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023
+
 #### 2025-02-13-Thu
 - intro to LangChain
 
