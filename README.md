@@ -1,5 +1,8 @@
 # Learn in Public
 
+#### 2025-02-15-Sat
+- learn more about gradio and implemented yolo object detection with gradio
+
 #### 2025-02-14-Fri
 - start predicting amazon item price using LLM. Dataset comes from: https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023
 
