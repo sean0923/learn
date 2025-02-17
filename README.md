@@ -1,6 +1,9 @@
 # Learn in Public
 
 #### 2025-02-15-Sat
+- train yolo with sku-110k in colab, took 7 hours and result looked good for stright image
+
+#### 2025-02-15-Sat
 - learn more about gradio and implemented yolo object detection with gradio
 
 #### 2025-02-14-Fri
