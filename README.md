@@ -1,6 +1,6 @@
 # Learn in Public
 
-#### 2025-02-15-Sat
+#### 2025-02-16-Sun
 - train yolo with sku-110k in colab, took 7 hours and result looked good for stright image
 
 #### 2025-02-15-Sat
