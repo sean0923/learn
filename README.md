@@ -1,5 +1,9 @@
 # Learn in Public
 
+#### 2025-02-17-Mon
+- Modal.com (run ml python function in cloud)
+- intro to tensorflowJs
+
 #### 2025-02-16-Sun
 - train yolo with sku-110k in colab, took 7 hours and result looked good for stright image
 
