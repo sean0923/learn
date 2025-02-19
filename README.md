@@ -1,5 +1,8 @@
 # Learn in Public
 
+#### 2025-02-18-Tue
+- learning basic of linear-regression with gradient descent
+
 #### 2025-02-17-Mon
 - Modal.com (run ml python function in cloud)
 - intro to tensorflowJs
