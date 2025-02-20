@@ -1,5 +1,8 @@
 # Learn in Public
 
+#### 2025-02-19-Wed
+- linear-regression with gradient descent using `Tensorflow.js`
+
 #### 2025-02-18-Tue
 - learning basic of linear-regression with gradient descent
 
