@@ -1,5 +1,8 @@
 # Learn in Public
 
+#### 2025-02-20-Thu
+- logistic-regression with gradient descent using `Tensorflow.js`
+
 #### 2025-02-19-Wed
 - linear-regression with gradient descent using `Tensorflow.js`
 
