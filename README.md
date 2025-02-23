@@ -1,5 +1,11 @@
 # Learn in Public
 
+#### 2025-02-22-Sat
+- intro to LangChain
+- learn LangChain has many utilities to help using LLM
+- one chaine / using sequential chains to talk to openai llm
+- there is concept called `Memeory` and using it was helpful to keep chat history to openai api
+
 #### 2025-02-21-Fri
 - hand written number recognition using multinomial-logistic-regression with gradient descent using `Tensorflow.js`
 
