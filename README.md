@@ -1,5 +1,11 @@
 # Learn in Public
 
+#### 2025-02-23-Sun
+
+- learn about calculate how similar vectors are (L2, Cosine similarity)
+- use OpenAI Embeddings to change text -> embeddings -> save to chroma db (sqlite based vector db)
+- use retriever chain to work with OpenAI chat with embeddings
+
 #### 2025-02-22-Sat
 - intro to LangChain
 - learn LangChain has many utilities to help using LLM
