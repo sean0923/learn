@@ -1,5 +1,12 @@
 # Learn in Public
 
+#### 2025-02-24-Mon
+
+- `agent`: chain that knows how to use tools
+- `agent executor`: runs agent until it is not a function call (fancy while loop)
+- learn how to make tools
+- seems like `chain` concept is important but not sure I am getting it...
+
 #### 2025-02-23-Sun
 
 - learn about calculate how similar vectors are (L2, Cosine similarity)
