@@ -1,5 +1,10 @@
 # Learn in Public
 
+
+#### 2025-02-25-Tue
+
+- learn about limit of `intermediate_steps` and how using `memory` will remember to keep track of some history between two different agent executors 
+
 #### 2025-02-24-Mon
 
 - `agent`: chain that knows how to use tools
