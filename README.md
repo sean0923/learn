@@ -1,6 +1,6 @@
 # Learn in Public
 
-#### 2025-02-26-Wed
+#### 2025-02-27-Thu
 
 - setup `celery` for job queue
 
