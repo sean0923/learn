@@ -2,6 +2,10 @@
 
 #### 2025-02-26-Wed
 
+- setup `celery` for job queue
+
+#### 2025-02-26-Wed
+
 - setup `pinecone` vector database
 
 #### 2025-02-25-Tue
