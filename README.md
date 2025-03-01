@@ -1,7 +1,7 @@
 # Learn in Public
 
 
-#### 2025-02-27-Thu
+#### 2025-02-28-Fri
 
 - Learned chroma_db without langchain
 - set up gmail read only api to fetch emails
