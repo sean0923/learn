@@ -1,5 +1,11 @@
 # Learn in Public
 
+
+#### 2025-02-27-Thu
+
+- Learned chroma_db without langchain
+- set up gmail read only api to fetch emails
+  
 #### 2025-02-27-Thu
 
 - setup `celery` for job queue
