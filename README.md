@@ -1,5 +1,8 @@
 # Learn in Public
 
+#### 2025-03-01-Sat
+
+- still learning more about gmail api with python
 
 #### 2025-02-28-Fri
 
