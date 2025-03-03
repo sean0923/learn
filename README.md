@@ -1,5 +1,10 @@
 # Learn in Public
 
+#### 2025-03-02-Sun
+
+- use gemini free teir to summarize and hit 15 calls / min rate limit. tried to pay and used but was not able to
+- use openai 4o mini to start summarize email
+
 #### 2025-03-01-Sat
 
 - still learning more about gmail api with python
