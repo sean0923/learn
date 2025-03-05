@@ -1,5 +1,9 @@
 # Learn in Public
 
+#### 2025-03-04-Tue
+
+- more on shadcn chart
+
 #### 2025-03-03-Mon
 
 - shadcn chart
