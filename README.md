@@ -1,5 +1,13 @@
 # Learn in Public
 
+#### 2025-03-06-Thu
+
+- cache unpkg files with localforage
+
+#### 2025-03-05-Wed
+
+- use esbuild wasm in browser
+
 #### 2025-03-04-Tue
 
 - more on shadcn chart
